@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Jim.Fun personal blod
+title: Star Trek
 subtitle:
 description:
 keywords:
@@ -79,5 +79,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:ythvg/ythvg.github.io.git
+  repo: https://github.com/ythvg/ythvg.github.io.git
   branch: master
