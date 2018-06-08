@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: hexo start
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
@@ -36,3 +36,6 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
+
+### Hexo + Github pages toturial
+[Links](https://gist.github.com/btfak/18938572f5df000ebe06fbd1872e4e39)
