@@ -12,42 +12,68 @@ tags:
 
 * 基本语法
 
-    * websites
+    * [The modern Javascript Tutorial](http://javascript.info/)
 
-        * [The modern Javascript Tutorial](http://javascript.info/)
+    * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 
-        * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+    * [ECMAScript 6 — New Features](http://es6-features.org/#Constants)
 
-    * books
+    * 《javasctip高级程序设计》
 
-        * 《javasctip高级程序设计》
+* node.js 
+
+    * [Node.js API Docs](https://nodejs.org/dist/latest-v8.x/docs/api/)
+
+    * 《深入浅出node.js》
 
 * 数据结构和算法
 
-    * websites
-
-        * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/)
+    * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/)
 
 
 * 设计模式
 
-* es6
+    * [Design-Patterns-in-Javascript](https://github.com/tcorral/Design-Patterns-in-Javascript)
 
-### node.js
+### Http
 
-### 网络基础
+* [mdn http](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 
-* http
+* [httpbin.org](https://httpbin.org/) - A simple HTTP Request & Response Service.
+
+* [httpie.org](https://httpie.org/) - a command line HTTP client 
+
+* 《图解http》
+
+* 《http权威指南》
+
 
 ### vue技术栈
 
-### react技术栈
+
+### [React技术栈](https://reactjs.org/) - A JavaScript library for building user interfaces
+
+* [React Router](https://reacttraining.com/react-router/)
+
+* [Ant Design](https://ant.design/docs/react/introduce-cn) - UI Framework
+
+* [React Native](https://facebook.github.io/react-native/) - Build native mobile apps using JavaScript and React
 
 ### 前端工程化
 
-* webpack
+* [webpack](https://webpack.js.org/) - bundle 
+
+* [babel](https://babeljs.io/) - Babel is a JavaScript compiler
+
+## 版本控制
+ 
+  * [Pro Git](https://git-scm.com/book/en/v2)
 
 ### css
+
+* [w3 css tutorial](https://www.w3schools.com/css/default.asp)
+
+* [sass](https://sass-lang.com/)
 
 
 ### html
@@ -60,14 +86,10 @@ tags:
 
 * mysql
 
-* postgresql
-
 ### 开发工具
 * linux command line
 * vscode 
 * vim
-* git
-
 * 代码风格
 
     * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
@@ -79,4 +101,6 @@ tags:
 * chrome extensions
 
 ### python
+
+* [深入python3](https://woodpecker.org.cn/diveintopython3/index.html)
 
