@@ -20,6 +20,8 @@ tags:
 
     * [mdn javascript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 
+    * [typescript](https://www.typescriptlang.org/docs/home.html) - [cn](https://www.tslang.cn/docs/handbook/variable-declarations.html)
+
     * 《javasctip高级程序设计》
 
 * node.js 
@@ -52,6 +54,10 @@ tags:
 * 《图解http》
 
 * 《http权威指南》
+
+## 网络安全
+
+* 《图解密码技术》
 
 
 ### [vue技术栈](https://cn.vuejs.org/v2/guide/) - [source](https://github.com/vuejs/vue)
@@ -110,7 +116,7 @@ tags:
 
 * [redis](https://redis.io/)
 
-* [mysql](https://www.mysql.com/cn/)
+* postgresql
 
 ### 开发工具
 
@@ -121,8 +127,6 @@ tags:
 * [vim](https://coolshell.cn/articles/5426.html)
 
 * 代码风格
-
-    * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
     * [EditorConconfig](https://editorconfig.org/)
 
