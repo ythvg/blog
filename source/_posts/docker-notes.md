@@ -64,7 +64,39 @@ tags:
 
     ```
     docker run NAME
-    e.g. docker run -ti ubuntu /bin/bash 
+    e.g. docker run -t -i ubuntu /bin/bash
+    -t 分配一个伪终端并绑定到标准输入，-i 让容器的标准输入保持打开, -d Daemonized 守护态运行
     ```
 
+* 终止容器
+
+    ```
+    docker stop ID
+    ```
+
+* 重启容器
+
+    ```
+    docker restart ID
+    ```
+
+* 进入容器
+
+    ```
+    docker exec [OPTIONS] ID
+
+* 删除容器
+
+    ```
+    docker rm [OPTIONS] CONTAINER
+
+* 导出和导入容器
+
+    windows env get some problems
+
+
 ### Docker仓库
+
+* [Docker HUb](https://hub.docker.com/)
+
+
