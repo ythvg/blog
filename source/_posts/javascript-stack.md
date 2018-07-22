@@ -1,6 +1,6 @@
 ---
 title: Javascript 全栈技能树 (不断完善中...)
-date: 2018-06-08 22:05:20
+date: 2018-06-19 12:05:20
 tags:
 ---
   
@@ -18,6 +18,10 @@ tags:
 
     * [ECMAScript 6 — New Features](http://es6-features.org/#Constants)
 
+    * [mdn javascript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+
+    * [typescript](https://www.typescriptlang.org/docs/home.html) - [cn](https://www.tslang.cn/docs/handbook/variable-declarations.html)
+
     * 《javasctip高级程序设计》
 
 * node.js 
@@ -25,6 +29,10 @@ tags:
     * [Node.js API Docs](https://nodejs.org/dist/latest-v8.x/docs/api/)
 
     * 《深入浅出node.js》
+    
+    * 《node.js in action》
+
+    * 《node.js in pratice》
 
 * 数据结构和算法
 
@@ -47,17 +55,38 @@ tags:
 
 * 《http权威指南》
 
+## 网络安全
 
-### vue技术栈
+* 《图解密码技术》
 
+
+### [vue技术栈](https://cn.vuejs.org/v2/guide/) - [source](https://github.com/vuejs/vue)
+
+* [vue router](https://router.vuejs.org/zh/)
+
+* [vuex](https://vuex.vuejs.org/zh/)
+
+* [vue loader](https://vue-loader.vuejs.org/zh/)
+
+* [electron-vue](https://simulatedgreg.gitbooks.io/electron-vue/content/cn/)
+
+* UI Framework
+
+    * [Element UI](https://element.faas.ele.me/#/zh-CN)
+    
+    * [iView](https://www.iviewui.com/)
+
+    * [Vue Material](https://element.faas.ele.me/#/zh-CN)
 
 ### [React技术栈](https://reactjs.org/) - A JavaScript library for building user interfaces
 
 * [React Router](https://reacttraining.com/react-router/)
 
-* [Ant Design](https://ant.design/docs/react/introduce-cn) - UI Framework
-
 * [React Native](https://facebook.github.io/react-native/) - Build native mobile apps using JavaScript and React
+
+* UI Framework
+
+    * [Ant Design](https://ant.design/docs/react/introduce-cn)
 
 ### 前端工程化
 
@@ -65,42 +94,62 @@ tags:
 
 * [babel](https://babeljs.io/) - Babel is a JavaScript compiler
 
-## 版本控制
+## 版本控制
  
-  * [Pro Git](https://git-scm.com/book/en/v2)
+  * [Pro Git](https://git-scm.com/book/zh/v2)
 
 ### css
 
-* [w3 css tutorial](https://www.w3schools.com/css/default.asp)
+* [w3 css](https://www.w3schools.com/css/default.asp)
 
 * [sass](https://sass-lang.com/)
 
+* [stylus](http://stylus-lang.com/)
 
 ### html
 
+* [mdn html](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
+
 ### 数据库
 
-* mongodb
+* [mongodb](https://www.mongodb.com/cn)
 
-* redis
+* [redis](https://redis.io/)
 
-* mysql
+* postgresql
 
 ### 开发工具
-* linux command line
-* vscode 
-* vim
+
+* [linux command line](http://billie66.github.io/TLCL/book/)
+
+* [vscode](https://code.visualstudio.com/) 
+
+* [vim](https://coolshell.cn/articles/5426.html)
+
 * 代码风格
 
-    * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+    * [EditorConconfig](https://editorconfig.org/)
 
 ### 其他
 
-* electron 
+* [electron](https://electronjs.org/) 
+
+* [markdown](http://wowubuntu.com/markdown/)
 
 * chrome extensions
+
+### 云计算
+
+* [docker](https://docs.docker.com/)
+
+    * 《docker入门与实践》
 
 ### python
 
 * [深入python3](https://woodpecker.org.cn/diveintopython3/index.html)
 
+### 行业书籍
+
+* 《浪潮之巅》
+
+* 《黑客与画家》
