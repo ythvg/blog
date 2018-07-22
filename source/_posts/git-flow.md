@@ -48,7 +48,7 @@ tags:
 
     * 推荐使用 [EditorConfig](https://editorconfig.org/) 进行代码风格约束
 
-    * 关于各类代码检查工具 xxlint 小型项目不推荐使用
+    * 规定代码规范，使用eslint等工具
 
 * 代码质量尽量做到可阅读性和简单性
 
