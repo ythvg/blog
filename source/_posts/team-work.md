@@ -10,20 +10,20 @@ tags:
 
 对于前后端分离项目，在项目命名上建议遵循
 
-> 前端： xxx_frontend， 后端：xxx_backend
+> 前端： xxx-frontend， 后端：xxx-backend
 
-的命名方式，且所有项目和分支的命名应采用 **小写字母** 加 **_** 的方式
+的命名方式，且所有项目和分支的命名采用 **小写字母** 加 **-** 的方式
 
 
-## git 流程
+## 软件版本控制
 
-* 使用git flow流程进行开发
+* 推荐使用git flow流程进行开发
 
     * 什么是 [git flow](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow) ? 
 
     * git flow [备忘清单 ](https://danielkummer.github.io/git-flow-cheatsheet/index.html)
 
-* git flow 重点
+* git flow 主要分支
 
     * master 不能直接工作在这个 master 分支上，而是在其他指定的，独立的特性分支中，不直接提交改动到 master 分支上也是很多工作流程的一个共同的规则
 
@@ -34,24 +34,5 @@ tags:
 
 ## 软件架构
 
-
 * 软件在架构设计时建议采用自顶向下的设计思想，尽量的做到模块化和抽象化
 
-    * 自顶向下设计， 就是设计时首先要对项目有一个全面的了解， 然后从顶层开始，一步一步的细分实现，设计思想有点类似于 java 和 typescript 中 接口的实现
-
-    * 模块化开发应当尽量降低代码的耦合度，从而让团队开发更加高效
-
-    * 在自定义函数方面建议遵循 do_something 的开发哲学，就是一个函数就是完成一个功能
-
-
-* 代码风格和代码检查
-
-    * 推荐使用 [EditorConfig](https://editorconfig.org/) 进行代码风格约束
-
-    * 规定代码规范，使用eslint等工具
-
-* 代码质量尽量做到可阅读性和简单性
-
-    * 单个文件尽量不要超过300行
-
-    * 不要引入过多无用的第三方类库从而导致代码臃肿

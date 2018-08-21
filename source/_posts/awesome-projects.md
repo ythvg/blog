@@ -16,9 +16,6 @@ tags:
 
 * [httpbin.org](https://httpbin.org/) - HTTP Request & Response Service, written in Python + Flask.
 
-## Life Style 
-
-* [Mediacenterjs](https://github.com/jansmolders86/mediacenterjs) ([website](http://mediacenterjs.com/)) - A HTML/CSS/Javascript based Media center.
 
 ## File Managers
 
